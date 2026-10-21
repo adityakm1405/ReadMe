@@ -1,262 +1,151 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:08080D,35:21102D,70:38132D,100:09090F&text=ADITYA.exe&fontColor=F8F4FF&fontSize=68&fontAlignY=40&desc=PLAYER%20%3E%20DEVELOPER%20%3E%20CREATOR&descSize=14&descAlignY=63&descColor=FF5577&animation=fadeIn&stroke=922B58" width="100%" alt="Aditya.exe — Player, Developer, Creator" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=2600&pause=800&color=FF5577&center=true&vCenter=true&repeat=true&width=650&height=40&lines=%5BSYSTEM+ONLINE%5D;%3E+Building+worlds%2C+one+line+at+a+time.;%3E+Web+dev+by+day.+Game+dev+in+progress.;%3E+Currently+grinding%3A+React+%7C+C%23+%7C+Unity;%5BNEW+QUEST%3A+BUILD+SOMETHING+COOL%5D" alt="Animated gaming terminal status" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=2600&pause=800&color=FF5577&center=true&vCenter=true&repeat=true&width=650&height=40&lines=%5BSYSTEM+ONLINE%5D;%3E+Full-stack+web+dev+by+day.;%3E+Game+dev+%26+3D+in+progress.;%3E+Currently+grinding%3A+React+%7C+C%23+%7C+Unity" alt="Animated status line" />
 
 <br/>
 
-<a href="https://github.com/adityakm1405">
-<img src="https://img.shields.io/badge/PLAYER_ID-adityakm1405-15111D?style=for-the-badge&logo=github&logoColor=FF5577" alt="GitHub player ID" />
-</a>
-<a href="https://www.linkedin.com/in/aditya-kumar-misra-406385317/">
-<img src="https://img.shields.io/badge/NETWORK-LINKEDIN-15111D?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
-</a>
-<a href="mailto:adityakm560@gmail.com">
-<img src="https://img.shields.io/badge/COMMS-OPEN-15111D?style=for-the-badge&logo=gmail&logoColor=FF5577" alt="Email" />
-</a>
-
-<br/><br/>
-
-`╔══════════════════════════════════════════╗`
-
-`          PLAYER PROFILE // 001`
-
-`╚══════════════════════════════════════════╝`
+<a href="https://github.com/adityakm1405"><img src="https://img.shields.io/badge/GitHub-adityakm1405-15111D?style=for-the-badge&logo=github&logoColor=FF5577" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/aditya-kumar-misra-406385317/"><img src="https://img.shields.io/badge/LinkedIn-Connect-15111D?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+<a href="mailto:adityakm560@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-15111D?style=for-the-badge&logo=gmail&logoColor=FF5577" alt="Email" /></a>
 
 </div>
 
-## `01` ▸ PLAYER SELECT
+<br/>
 
-> **Name:** Aditya Kumar Misra  
-> **Class:** Developer / Gamer  
-> **Current quest:** B.Tech — Computer Science & Engineering  
-> **Alignment:** Creative problem-solving  
-> **Pronouns:** He/Him
+## ▸ About
 
-I'm a developer in progress with an interest in building interactive things — from web applications and custom interfaces to game mechanics and 3D environments.
+**Aditya Kumar Misra** — B.Tech student in Computer Science & Engineering.
 
-I enjoy gaming, experimenting with new technologies, and turning ideas into projects. Every new skill is another unlock; every project is another quest.
+I build interactive things: full-stack web applications, custom interfaces, and game mechanics. Right now I'm sharpening React and full-stack fundamentals while exploring gameplay programming in C# / Unity and 3D asset work in Blender.
 
 ```text
-┌─ CURRENT STATUS ──────────────────────────┐
-│                                           │
-│  WEB DEVELOPMENT      [ LEARNING / BUILD ]│
-│  GAME DEVELOPMENT     [ EXPLORING        ]│
-│  3D CREATION          [ IN PROGRESS      ]│
-│  CURIOSITY            [ ALWAYS ACTIVE    ]│
-│                                           │
-└───────────────────────────────────────────┘
+┌─ CURRENT STATUS ───────────────────────────┐
+│  Web development    ▸  Learning / Building │
+│  Game development   ▸  Exploring           │
+│  3D creation        ▸  In progress         │
+│  Open to            ▸  Projects & collabs  │
+└────────────────────────────────────────────┘
 ```
-
-## `02` ▸ SKILL TREE
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/CLASS-01_WEB_DEV-16121D?style=for-the-badge&logoColor=FF5577" alt="Web development class" />
-
-### 🌐 Web development
-
-**Current loadout**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb&theme=dark&perline=4" alt="Web development technologies" />
-
-`HTML` · `CSS` · `JavaScript` · `React`
-
-`Node.js` · `Express` · `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/CLASS-02_GAME_DEV-16121D?style=for-the-badge&logoColor=00D9FF" alt="Game development class" />
-
-### 🎮 Game development
-
-**Unlocking new abilities**
-
-<img src="https://skillicons.dev/icons?i=cs,unity,blender&theme=dark&perline=3" alt="C sharp, Unity and Blender" />
-
-`C#` · `Unity` · `Blender`
-
-Gameplay systems, interactive mechanics, 3D assets, and the craft of making game worlds feel alive.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<details>
-<summary><strong>▸ View active learning objectives</strong></summary>
-
-- [ ] Get more comfortable with React and component architecture.
-- [ ] Strengthen full-stack development skills.
-- [ ] Explore C# and Unity gameplay programming.
-- [ ] Improve 3D modeling skills in Blender.
-- [ ] Keep building projects instead of just collecting tutorials.
-
-</details>
 
 ---
 
-## `03` ▸ QUEST LOG // PROJECTS
-
-<div align="center">
-
-`╭────────────── ACTIVE PROJECTS ──────────────╮`
-
-`       SELECT A PROJECT TO INSPECT`
-
-`╰─────────────────────────────────────────────╯`
-
-</div>
+## ▸ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/adityakm1405/Noted_NotesWebsite">
-<img src="https://img.shields.io/badge/QUEST_001-COMPLETE%3F-292035?style=for-the-badge&logo=github&logoColor=FF5577" alt="Noted project" />
-</a>
+### 📝 [Noted](https://github.com/adityakm1405/Noted_NotesWebsite)
 
-### 📝 NOTED
+Full-stack notes manager with authentication, CRUD, Favorites, Trash, and search.
 
-**Type:** Full-stack web application
+`React` `Express` `Node.js` `MongoDB`
 
-A personal notes management system featuring authentication, CRUD operations, Favorites, Trash, and search.
-
-**Equipment:** React · Express · MongoDB · Node.js
-
-<a href="https://noted-noteswebsite.onrender.com/">▶ Launch application</a>
-
-<br/>
-
-<a href="https://github.com/adityakm1405/Noted_NotesWebsite">⌘ Inspect source code</a>
+[**▶ Live demo**](https://noted-noteswebsite.onrender.com/) · [**⌘ Source**](https://github.com/adityakm1405/Noted_NotesWebsite)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/adityakm1405/Stylus-userstyles">
-<img src="https://img.shields.io/badge/QUEST_002-CUSTOMIZATION-172B36?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Stylus Userstyles project" />
-</a>
+### 🎨 [Stylus Userstyles](https://github.com/adityakm1405/Stylus-userstyles)
 
-### 🎨 STYLUS USERSTYLES
+Custom CSS themes and redesigns that turn ordinary websites into personalized interfaces.
 
-**Type:** Browser customization
+`CSS` `Stylus` `UI customization`
 
-A collection of custom CSS themes and website redesigns, transforming ordinary web interfaces into personalized experiences.
-
-**Equipment:** CSS · Stylus · UI customization
-
-<a href="https://github.com/adityakm1405/Stylus-userstyles">▶ Browse the collection</a>
+[**⌘ Browse the collection**](https://github.com/adityakm1405/Stylus-userstyles)
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>▸ Quest board — future builds</strong></summary>
+---
 
-| Quest | Objective | Status |
-|---|---|---|
+## ▸ Tech Stack
+
+<div align="center">
+
+| Area | Tools |
+|:---|:---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML, CSS, JavaScript, React, Vite" align="absmiddle" /> |
+| **Backend & Tools** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github&theme=dark" alt="Node.js, Express, MongoDB, Git, GitHub" align="absmiddle" /> |
+| **Game & 3D** | <img src="https://skillicons.dev/icons?i=cs,unity,blender&theme=dark" alt="C#, Unity, Blender" align="absmiddle" /> |
+
+</div>
+
+<details>
+<summary><b>▸ Learning objectives</b></summary>
+<br/>
+
+- [ ] Get comfortable with React and component architecture
+- [ ] Strengthen full-stack development skills
+- [ ] Explore C# and Unity gameplay programming
+- [ ] Improve 3D modeling in Blender
+- [ ] Ship projects instead of collecting tutorials
+
+</details>
+
+<details>
+<summary><b>▸ Quest board — what's next</b></summary>
+<br/>
+
+| Focus | Objective | Status |
+|:---|:---|:---|
 | Web engineering | Build more full-stack applications | In progress |
 | Game development | Create interactive Unity projects | Exploring |
-| 3D workshop | Develop modeling and asset creation skills | Learning |
+| 3D workshop | Modeling and asset creation | Learning |
 | Open source | Improve and share useful projects | Ongoing |
 
 </details>
 
 ---
 
-## `04` ▸ TECH LOADOUT
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FRONTEND-FF5577?style=for-the-badge&labelColor=17121D" alt="Frontend" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark&perline=5" alt="Frontend stack" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BACKEND-00D9FF?style=for-the-badge&labelColor=17121D" alt="Backend" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github&theme=dark&perline=5" alt="Backend and development tools" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GAME_DEV-BA82FF?style=for-the-badge&labelColor=17121D" alt="Game development" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=cs,unity,blender&theme=dark&perline=3" alt="Game development tools" />
-
-</div>
-
----
-
-## `05` ▸ PLAYER STATS
+## ▸ GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/adityakm1405">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityakm1405&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=FF5577&text_color=E6E0F0&icon_color=00D9FF&rank_icon=github" alt="GitHub player statistics" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adityakm1405&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=FF5577&text_color=E6E0F0&icon_color=00D9FF&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adityakm1405&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C2234A&text_color=2B2433&icon_color=0088AA&rank_icon=github" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityakm1405&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  </picture>
 </a>
 <a href="https://github.com/adityakm1405">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakm1405&layout=compact&hide_border=true&bg_color=0D0B12&title_color=FF5577&text_color=E6E0F0" alt="Most-used programming languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakm1405&layout=compact&hide_border=true&bg_color=0D0B12&title_color=FF5577&text_color=E6E0F0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakm1405&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C2234A&text_color=2B2433" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakm1405&layout=compact&hide_border=true" alt="Top languages" />
+  </picture>
 </a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=adityakm1405&hide_border=true&background=0D0B12&ring=FF5577&fire=FF9B54&currStreakLabel=00D9FF&sideLabels=E6E0F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9690A6" alt="GitHub contribution streak" width="75%" />
-
-<br/><br/>
-
-<sub>STATS LOADED FROM PUBLIC GITHUB ACTIVITY</sub>
 
 </div>
 
 ---
 
-## `06` ▸ OFFLINE LOBBY
+## ▸ Offline Lobby
 
-When I'm not coding, you can probably find me gaming, exploring game design, or thinking about something I'd like to build.
+Outside of code: gaming, studying game design, and sketching out things I'd like to build next.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/INTEREST-VIDEO_GAMES-21102D?style=for-the-badge&logo=steam&logoColor=FF5577" alt="Gaming" />
-<img src="https://img.shields.io/badge/INTEREST-CREATIVE_TECH-172B36?style=for-the-badge&logo=blender&logoColor=00D9FF" alt="Creative technology" />
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-25203A?style=for-the-badge&logo=target&logoColor=BA82FF" alt="Always learning" />
+<img src="https://img.shields.io/badge/Interest-Video_Games-21102D?style=for-the-badge&logo=steam&logoColor=FF5577" alt="Video games" />
+<img src="https://img.shields.io/badge/Interest-Creative_Tech-172B36?style=for-the-badge&logo=blender&logoColor=00D9FF" alt="Creative technology" />
+<img src="https://img.shields.io/badge/Status-Always_Learning-25203A?style=for-the-badge&logo=target&logoColor=BA82FF" alt="Always learning" />
 
 </div>
 
 ---
 
-## `07` ▸ ESTABLISH CONNECTION
+## ▸ Get in Touch
+
+Have a project, an idea, or something worth discussing? I'm open to collaboration.
 
 <div align="center">
 
-`INCOMING TRANSMISSION ACCEPTED`
-
-Have an idea, a project, or something interesting to discuss? Let's connect.
-
-<br/>
-
-<a href="mailto:adityakm560@gmail.com">
-<img src="https://img.shields.io/badge/SEND_TRANSMISSION-FF5577?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send email" />
-</a>
-<a href="https://www.linkedin.com/in/aditya-kumar-misra-406385317/">
-<img src="https://img.shields.io/badge/CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=101018" alt="Connect on LinkedIn" />
-</a>
+<a href="mailto:adityakm560@gmail.com"><img src="https://img.shields.io/badge/Send_Email-FF5577?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send email" /></a>
+<a href="https://www.linkedin.com/in/aditya-kumar-misra-406385317/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=101018" alt="Connect on LinkedIn" /></a>
 
 <br/><br/>
 
@@ -266,8 +155,6 @@ Have an idea, a project, or something interesting to discuss? Let's connect.
 > status = ONLINE
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:09090F,50:21102D,100:38132D&section=footer" width="100%" alt="End of player profile" />
-
-<sub>GG. Thanks for visiting my profile.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:09090F,50:21102D,100:38132D&section=footer" width="100%" alt="" />
 
 </div>
