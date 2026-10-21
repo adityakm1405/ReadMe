@@ -1,12 +1,32 @@
  <div align="center">
 
-<p align="center">
-  <img
-    src="./assets/PixelGamerDeveloperProfileBanner.png"
-    width="100%"
-    alt="Aditya — Pixel Art Gaming Profile"
-  />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2800&pause=900&color=7CFF6B&background=0D1117&center=true&vCenter=true&width=900&height=90&lines=%3E+PLAYER+ONE%3A+ADITYA;%3E+WEB+DEV+%2B+GAME+DEV;%3E+NEXT+QUEST%3A+BUILD+SOMETHING+COOL" alt="Aditya — Retro Arcade Intro" />
+
+<br>
+
+<img src="https://img.shields.io/badge/PLAYER-01-7CFF6B?style=for-the-badge&labelColor=101820" alt="Player 01" />
+<img src="https://img.shields.io/badge/CLASS-DEVELOPER-35C9FF?style=for-the-badge&labelColor=101820" alt="Developer" />
+<img src="https://img.shields.io/badge/MODE-EXPLORING-BC8CFF?style=for-the-badge&labelColor=101820" alt="Exploring" />
+
+<br><br>
+
+<pre>
+╔══════════════════════════════════════════════╗
+║              ★  PLAYER STATUS  ★             ║
+╠══════════════════════════════════════════════╣
+║  PLAYER  : ADITYA                            ║
+║  CLASS   : WEB DEV / GAME DEV                ║
+║  STATUS  : LEARNING & BUILDING                ║
+║  QUEST   : TURN IDEAS INTO REAL PROJECTS      ║
+║  LIVES   : ♥ ♥ ♥ ♥ ♡                         ║
+╚══════════════════════════════════════════════╝
+</pre>
+
+**[ INSERT COIN ]** ` CODE ` **[ START GAME ]**
+
+</div>
 
 <br/>
 
