@@ -1,6 +1,12 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:090D18,50:171B35,100:090D18&text=PLAYER%2001%3A%20ADITYA&fontColor=E8F7FF&fontFamily=Press%20Start%202P&fontSize=32&fontAlignY=42&desc=INSERT%20COIN%20%7C%20CODE%20%7C%20PLAY&descSize=12&descAlignY=66&descColor=7CFF6B&animation=blinking&stroke=7CFF6B&strokeWidth=2" width="100%" alt="Player 01: Aditya — Insert Coin, Code, Play" />
+<p align="center">
+  <img
+    src="./assets/pixel-gaming-header.png"
+    width="100%"
+    alt="Aditya — Pixel Art Gaming Profile"
+  />
+</p>
 
 <br/>
 
