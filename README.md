@@ -1,32 +1,6 @@
  <div align="center">
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2800&pause=900&color=7CFF6B&background=0D1117&center=true&vCenter=true&width=900&height=90&lines=%3E+PLAYER+ONE%3A+ADITYA;%3E+WEB+DEV+%2B+GAME+DEV;%3E+NEXT+QUEST%3A+BUILD+SOMETHING+COOL" alt="Aditya — Retro Arcade Intro" />
-
-<br>
-
-<img src="https://img.shields.io/badge/PLAYER-01-7CFF6B?style=for-the-badge&labelColor=101820" alt="Player 01" />
-<img src="https://img.shields.io/badge/CLASS-DEVELOPER-35C9FF?style=for-the-badge&labelColor=101820" alt="Developer" />
-<img src="https://img.shields.io/badge/MODE-EXPLORING-BC8CFF?style=for-the-badge&labelColor=101820" alt="Exploring" />
-
-<br><br>
-
-<pre>
-╔══════════════════════════════════════════════╗
-║              ★  PLAYER STATUS  ★             ║
-╠══════════════════════════════════════════════╣
-║  PLAYER  : ADITYA                            ║
-║  CLASS   : WEB DEV / GAME DEV                ║
-║  STATUS  : LEARNING & BUILDING                ║
-║  QUEST   : TURN IDEAS INTO REAL PROJECTS      ║
-║  LIVES   : ♥ ♥ ♥ ♥ ♡                         ║
-╚══════════════════════════════════════════════╝
-</pre>
-
-**[ INSERT COIN ]** ` CODE ` **[ START GAME ]**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:08080D,35:21102D,70:38132D,100:09090F&text=ADITYA.exe&fontColor=F8F4FF&fontSize=68&fontAlignY=40&desc=PLAYER%20%3E%20DEVELOPER%20%3E%20CREATOR&descSize=14&descAlignY=63&descColor=FF5577&animation=fadeIn&stroke=922B58" width="100%" alt="Aditya.exe — Player, Developer, Creator" />
 
 <br/>
 
