@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:08080D,35:21102D,70:38132D,100:09090F&text=ADITYA.exe&fontColor=F8F4FF&fontSize=68&fontAlignY=40&desc=PLAYER%20%3E%20DEVELOPER%20%3E%20CREATOR&descSize=14&descAlignY=63&descColor=FF5577&animation=fadeIn&stroke=922B58" width="100%" alt="Aditya.exe — Player, Developer, Creator" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070B1F,45:102B46,75:123E49,100:071018&text=ADITYA%20%2F%2F%20PLAYER%2001&fontColor=E8FAFF&fontSize=52&fontAlignY=40&desc=CODE.%20CREATE.%20PLAY.&descSize=15&descAlignY=62&descColor=65F6D2&animation=fadeIn&stroke=1B98A5" width="100%" alt="Aditya // Player 01 — Code. Create. Play." />
 
 <br/>
 
@@ -44,9 +44,9 @@ I enjoy gaming, experimenting with new technologies, and turning ideas into proj
 ┌─ CURRENT STATUS ──────────────────────────┐
 │                                           │
 │  WEB DEVELOPMENT      [ LEARNING / BUILD ]│
-│  GAME DEVELOPMENT     [ EXPLORING         ]│
-│  3D CREATION          [ IN PROGRESS       ]│
-│  CURIOSITY            [ ALWAYS ACTIVE     ]│
+│  GAME DEVELOPMENT     [ EXPLORING        ]│
+│  3D CREATION          [ IN PROGRESS      ]│
+│  CURIOSITY            [ ALWAYS ACTIVE    ]│
 │                                           │
 └───────────────────────────────────────────┘
 ```
