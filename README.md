@@ -1,6 +1,58 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:08080D,35:21102D,70:38132D,100:09090F&text=ADITYA.exe&fontColor=F8F4FF&fontSize=68&fontAlignY=40&desc=PLAYER%20%3E%20DEVELOPER%20%3E%20CREATOR&descSize=14&descAlignY=63&descColor=FF5577&animation=fadeIn&stroke=922B58" width="100%" alt="Aditya.exe — Player, Developer, Creator" />
+
+<div align="center">
+
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║  ▄▀█ █▀▄ █ █▀▀ ▀█▀ █▄█ ▄▀█                              ║
+║  █▀█ █▄▀ █ █▄▄  █  █ █ █▀█                              ║
+║                                                          ║
+║       ███   ████  █████  █████ █   █  ███               ║
+║      █   █  █   █   █      █   █   █ █   █              ║
+║      █████  █   █   █      █   █   █ █████              ║
+║      █   █  █   █   █      █   █   █ █   █              ║
+║      █   █  ████  █████    █    ███  █   █              ║
+║                                                          ║
+║            [ PLAYER ONE HAS ENTERED ]                    ║
+║            [     LOBBY: ADITYA     ]                    ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=42&lines=%3E+SYSTEM+ONLINE...;%3E+WEB+DEV+%2F%2F+GAME+DEV;%3E+NEW+QUEST%3A+BUILD+SOMETHING+COOL;%3E+LOADING+NEXT+ADVENTURE..." alt="Retro gaming terminal animation" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/PLAYER-01-15111D?style=for-the-badge&logoColor=FF5577" alt="Player 01" />
+<img src="https://img.shields.io/badge/CLASS-DEVELOPER-15111D?style=for-the-badge&logoColor=00D9FF" alt="Developer" />
+<img src="https://img.shields.io/badge/MODE-EXPLORING-15111D?style=for-the-badge&logoColor=BA82FF" alt="Exploring" />
+
+<br/><br/>
+
+<a href="https://github.com/adityakm1405">
+<img src="https://img.shields.io/badge/GITHUB-adityakm1405-16121D?style=flat-square&logo=github&logoColor=FF5577" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/aditya-kumar-misra-406385317/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-16121D?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
+</a>
+<a href="mailto:adityakm560@gmail.com">
+<img src="https://img.shields.io/badge/COMMS-OPEN-16121D?style=flat-square&logo=gmail&logoColor=BA82FF" alt="Email" />
+</a>
+
+<br/><br/>
+
+`┌─────────────────────── PLAYER CARD ───────────────────────┐`
+
+`│  PLAYER: ADITYA             CLASS: DEVELOPER              │`
+
+`│  MAIN QUEST: CREATE        SIDE QUEST: PLAY GAMES         │`
+
+`│  STATUS: LEARNING          NEXT LEVEL: IN PROGRESS        │`
+
+`└───────────────────────────────────────────────────────────┘`
+
+</div>
+
 
 <br/>
 
