@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070B1F,45:102B46,75:123E49,100:071018&text=ADITYA%20%2F%2F%20PLAYER%2001&fontColor=E8FAFF&fontSize=52&fontAlignY=40&desc=CODE.%20CREATE.%20PLAY.&descSize=15&descAlignY=62&descColor=65F6D2&animation=fadeIn&stroke=1B98A5" width="100%" alt="Aditya // Player 01 — Code. Create. Play." />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:090D18,50:171B35,100:090D18&text=PLAYER%2001%3A%20ADITYA&fontColor=E8F7FF&fontFamily=Press%20Start%202P&fontSize=32&fontAlignY=42&desc=INSERT%20COIN%20%7C%20CODE%20%7C%20PLAY&descSize=12&descAlignY=66&descColor=7CFF6B&animation=blinking&stroke=7CFF6B&strokeWidth=2" width="100%" alt="Player 01: Aditya — Insert Coin, Code, Play" />
 
 <br/>
 
