@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./assets/pixel-gaming-header.png"
+    src="./assets/PixelGamerDeveloperProfileBanner.png"
     width="100%"
     alt="Aditya — Pixel Art Gaming Profile"
   />
